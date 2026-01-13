@@ -71,3 +71,21 @@ The Census-augmented model incorporates ZIP code–level socioeconomic controls 
 - Rural proxy effects are modest and inconclusive (odds ratio ≈ 0.83) and are sensitive to missing geographic information in the prototype sample.
 
 - A low-income area indicator exhibits no detectable association with attrition (odds ratio ≈ 1.00) in this small-scale analysis.
+
+
+### Recommendations for the Congressional App Challenge
+
+1. **Encourage early registration**
+Later registration is consistently associated with higher attrition. CAC could implement early-registration incentives, reminder campaigns, or milestone check-ins for participants who register closer to deadlines.
+
+2. **Promote team-based participation**
+Larger team sizes are strongly associated with lower attrition across all models. Facilitating team formation—through school outreach, mentor matching, or collaboration tools—may improve completion rates.
+
+3. **Target outreach beyond behavioral signals**
+While socioeconomic context matters, behavioral engagement factors remain predictive even after Census adjustment. This suggests that engagement-focused interventions can be effective across districts, including lower-income areas.
+
+4. **Provide additional support for participants with limited geographic information**
+Participants with missing or incomplete geographic data exhibit different attrition patterns. CAC may benefit from targeted follow-ups or onboarding support for these participants to ensure access barriers are addressed early.
+
+5. **Scale analysis with full participation data**
+Applying this pipeline to the complete CAC dataset would enable statistically robust estimates and allow CAC to identify district-level or cohort-specific patterns, supporting more targeted program design.
