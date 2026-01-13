@@ -73,7 +73,7 @@ The Census-augmented model incorporates ZIP code–level socioeconomic controls 
 - A low-income area indicator exhibits no detectable association with attrition (odds ratio ≈ 1.00) in this small-scale analysis.
 
 
-### Recommendations for the Congressional App Challenge
+## Recommendations for the Congressional App Challenge
 
 1. **Encourage early registration**
 Later registration is consistently associated with higher attrition. CAC could implement early-registration incentives, reminder campaigns, or milestone check-ins for participants who register closer to deadlines.
