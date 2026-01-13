@@ -45,8 +45,6 @@ An end-to-end, reproducible pipeline was constructed:
 
 
 <img width="998" height="616" alt="visualisations" src="https://github.com/user-attachments/assets/d92cdab0-3b85-4d85-a8b8-fee66f163b75" />
-<img width="501" height="563" alt="Screenshot 2026-01-13 124422" src="https://github.com/user-attachments/assets/cfae6fc1-bd5c-4aff-84a1-bb68a1322be9" />
-
 
 ### Behavioral Effects (Robust Across Models)
 
