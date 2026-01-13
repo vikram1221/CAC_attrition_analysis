@@ -37,8 +37,8 @@ An end-to-end, reproducible pipeline was constructed:
 - Two models estimated:
   - Baseline model (behavioral factors only)
   - Census-augmented model (adds socioeconomic controls)
-**
-Model outputs are reported as odds ratios, enabling direct interpretation of effect direction and magnitude.**
+
+**Model outputs are reported as odds ratios, enabling direct interpretation of effect direction and magnitude.**
 
 
 ## Key Outcomes
