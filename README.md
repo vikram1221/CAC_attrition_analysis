@@ -47,13 +47,13 @@ Model outputs are reported as odds ratios, enabling direct interpretation of eff
 
 Across both the baseline and Census-augmented logistic regression models, behavioral engagement variables emerge as the strongest predictors of attrition.
 
-- Team size:
+- **Team size**:
 In the baseline model, each additional team member is associated with a 39% reduction in attrition odds (odds ratio ≈ 0.61). After adjusting for Census socioeconomic variables, the effect remains strong, with a 33% reduction in attrition odds (odds ratio ≈ 0.67).
 
-- Registration timing (month):
+- **Registration timing (month)**:
 Later registration substantially increases attrition risk. The baseline model estimates nearly a 95% increase in attrition odds per unit increase in registration month (odds ratio ≈ 1.95). After Census adjustment, the effect remains pronounced, with attrition odds increasing by approximately 68% (odds ratio ≈ 1.68).
 
-- Registration day of week:
+- **Registration day of week**:
 Day-of-week effects are small and unstable across models (odds ratios ≈ 1.20–1.22) and are not interpreted as primary drivers of attrition.
 
 These results indicate that early engagement and collaborative participation play a central role in reducing attrition, independent of geographic or socioeconomic context.
