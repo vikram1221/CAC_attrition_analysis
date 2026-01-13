@@ -61,10 +61,10 @@ These results indicate that early engagement and collaborative participation pla
 
 ### Socioeconomic Context
 
-- The Census-augmented model incorporates ZIP code–level socioeconomic controls to assess whether behavioral effects are confounded by geography or income.
+The Census-augmented model incorporates ZIP code–level socioeconomic controls to assess whether behavioral effects are confounded by geography or income.
 
 - Median household income enters with an odds ratio of approximately 0.61, indicating that participants from higher-income areas have substantially lower attrition risk, holding behavioral factors constant.
 
 - Rural proxy effects are modest and inconclusive (odds ratio ≈ 0.83) and are sensitive to missing geographic information in the prototype sample.
 
-A low-income area indicator exhibits no detectable association with attrition (odds ratio ≈ 1.00) in this small-scale analysis.
+- A low-income area indicator exhibits no detectable association with attrition (odds ratio ≈ 1.00) in this small-scale analysis.
