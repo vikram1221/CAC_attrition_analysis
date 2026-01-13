@@ -39,3 +39,32 @@ An end-to-end, reproducible pipeline was constructed:
   - Census-augmented model (adds socioeconomic controls)
 **
 Model outputs are reported as odds ratios, enabling direct interpretation of effect direction and magnitude.**
+
+
+## Key Outcomes
+
+### Behavioral Effects (Robust Across Models)
+
+Across both the baseline and Census-augmented logistic regression models, behavioral engagement variables emerge as the strongest predictors of attrition.
+
+- Team size:
+In the baseline model, each additional team member is associated with a 39% reduction in attrition odds (odds ratio ≈ 0.61). After adjusting for Census socioeconomic variables, the effect remains strong, with a 33% reduction in attrition odds (odds ratio ≈ 0.67).
+
+- Registration timing (month):
+Later registration substantially increases attrition risk. The baseline model estimates nearly a 95% increase in attrition odds per unit increase in registration month (odds ratio ≈ 1.95). After Census adjustment, the effect remains pronounced, with attrition odds increasing by approximately 68% (odds ratio ≈ 1.68).
+
+- Registration day of week:
+Day-of-week effects are small and unstable across models (odds ratios ≈ 1.20–1.22) and are not interpreted as primary drivers of attrition.
+
+These results indicate that early engagement and collaborative participation play a central role in reducing attrition, independent of geographic or socioeconomic context.
+
+
+### Socioeconomic Context
+
+- The Census-augmented model incorporates ZIP code–level socioeconomic controls to assess whether behavioral effects are confounded by geography or income.
+
+- Median household income enters with an odds ratio of approximately 0.61, indicating that participants from higher-income areas have substantially lower attrition risk, holding behavioral factors constant.
+
+- Rural proxy effects are modest and inconclusive (odds ratio ≈ 0.83) and are sensitive to missing geographic information in the prototype sample.
+
+A low-income area indicator exhibits no detectable association with attrition (odds ratio ≈ 1.00) in this small-scale analysis.
