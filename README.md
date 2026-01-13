@@ -68,3 +68,6 @@ The Census-augmented model incorporates ZIP code–level socioeconomic controls 
 - Rural proxy effects are modest and inconclusive (odds ratio ≈ 0.83) and are sensitive to missing geographic information in the prototype sample.
 
 - A low-income area indicator exhibits no detectable association with attrition (odds ratio ≈ 1.00) in this small-scale analysis.
+
+<img width="998" height="616" alt="visualisations" src="https://github.com/user-attachments/assets/d92cdab0-3b85-4d85-a8b8-fee66f163b75" />
+
